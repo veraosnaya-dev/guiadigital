@@ -1,2 +1,0 @@
-# guiadigital
-PROYECTO
